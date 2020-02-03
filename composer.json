@@ -1,0 +1,19 @@
+{
+    "name": "sirmendax/sms-api-client",
+    "description": "Laravel package for sms-api",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "SirMendax",
+            "email": "kostopravbt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "SirMendax\\SmsApiClient\\": "./src"
+        }
+    }
+}
